@@ -7,8 +7,6 @@ import Summary from "@/components/Summary";
 import Tabs from "@/components/Tabs";
 import HeatMap from "@/components/HeatMap";
 import PieChart from "@/components/PieChart";
-import { AppSidebar } from "@/components/Sidebar";
-import { SidebarProvider } from "@/components/ui/sidebar";
 
 export default function Home() {
   return (

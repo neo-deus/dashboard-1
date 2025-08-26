@@ -1,6 +1,6 @@
 import React from "react";
 import { Button } from "./ui/button";
-import { Bell, CloudDownload, Forward, Funnel, Plus } from "lucide-react";
+import {  CloudDownload, Funnel, Plus } from "lucide-react";
 
 const Tabs = () => {
   return (

@@ -1,6 +1,6 @@
 "use client";
 
-import { CartesianGrid, Line, LineChart, XAxis } from "recharts";
+import { Line, LineChart } from "recharts";
 
 const chartData = [
   { month: "January", desktop: 186, mobile: 80 },

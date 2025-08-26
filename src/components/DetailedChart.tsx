@@ -37,7 +37,7 @@ const DetailedChart = () => {
             <div className="h-px  mx-3 my-5 bg-gray-300 rounded-full" />
             <div>
               <div className=" flex items-start gap-1 font-medium">
-                You're team is great!
+                You&apos;re team is great!
                 <Sparkles color="#84852e" className=" w-5" />
               </div>
               <p className=" text-sm mt-2 mb-6 leading-4 text-neutral-500">

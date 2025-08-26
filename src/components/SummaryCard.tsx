@@ -1,6 +1,5 @@
 import { Info, MoveDown, MoveRight, MoveUp } from "lucide-react";
-import React, { JSX } from "react";
-import { ChartBarStacked } from "./charts/Extras";
+import React from "react";
 
 type CardData = {
   header: string;
